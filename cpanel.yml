@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/qk7dedvzl4hy/public_html/test/
+    - export DEPLOYPATH=/home/qk7dedvzl4hy/public_html/test.thequickbazar.com/
     - /bin/cp -rf * $DEPLOYPATH
