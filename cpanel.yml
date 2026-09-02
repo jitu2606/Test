@@ -1,7 +1,7 @@
 # .cpanel.yml
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/qk7dedvzl4hy/public_html/Testing
+    - export DEPLOYPATH=/home/qk7dedvzl4hy/public_html/Test
     # Copy only specific PHP files and folders
     - /bin/cp index.php $DEPLOYPATH
     - /bin/cp about.php $DEPLOYPATH
